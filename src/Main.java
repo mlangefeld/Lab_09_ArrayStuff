@@ -12,7 +12,7 @@ public class Main {
         int counter = 0;
         boolean finished = false;
         int[] dataPoints = new int[100];
-        int git;
+
 
 
         for (intVal = 0; intVal < dataPoints.length; intVal++){
